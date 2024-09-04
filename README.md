@@ -1,2 +1,2 @@
 visit page: <br>
-git remote add origin https://github.com/KhannVakas/Image-Generator.git
+git remote add origin https://khannvakas.github.io/Image-Generator/
